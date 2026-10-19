@@ -198,7 +198,7 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 ###
 
 <div align="center">
-    <a href="https://github.com/anddrad3/Amerindia" target="_blank">
+    <a href="http://amerindia.alwaysdata.net/" target="_blank">
   <img height="200" src="https://lh3.googleusercontent.com/d/1PkObNtKfS2c9ySi_XdDM9ST7q2vSny9F" alt="GIF2" />
 </div>
 
