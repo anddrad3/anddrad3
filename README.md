@@ -176,11 +176,35 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 
 </p>
 
+###
 
 <div align="center">
   <img height="200" src="https://lh3.googleusercontent.com/d/1wlBAqxkEA-SwPO0tYsZNMimXm1US94Fj" alt="GIF" />
 </div>
 
+###
+
+## 🤖 Meus Projetos
+
+###
+
+<div align="center">
+    <a href="https://i.pinimg.com/564x/2f/c5/42/2fc5429cc937124e13e1b4ff059bc1c5.jpg" target="_blank">
+  <img height="200" src="https://lh3.googleusercontent.com/d/1xFKontuDinsDdNPv3hNo901C6Erw5Ph9" alt="GIF3" />
+</div>
+
+###
+
+###
+
+<div align="center">
+    <a href="https://github.com/anddrad3/Amerindia" target="_blank">
+  <img height="200" src="https://lh3.googleusercontent.com/d/1PkObNtKfS2c9ySi_XdDM9ST7q2vSny9F" alt="GIF2" />
+</div>
+
+###
+
+## 👾 Meus Commits
 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anddrad3/anddrad3/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
