@@ -158,23 +158,18 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=anddrad3&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=anddrad3&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
+<p align="center">
+  <a href="https://ghstats.dev/?username=anddrad3">
+    <img src="./profile/stats.svg" width="495" alt="GitHub Stats de anddrad3 — GHStats" />
+  </a>
 </p>
+<p align="center">
+  <img src="./profile/top-langs.svg" height="195" alt="Linguagens mais usadas nos repositórios públicos de anddrad3" />
+  <img src="./profile/streak.svg" height="195" alt="Contribuições e sequência de dias de anddrad3" />
+</p>
+
+<sub>Dados públicos de <a href="https://github.com/anddrad3">anddrad3</a>, atualizados automaticamente duas vezes por dia. Cards: <a href="https://ghstats.dev">GHStats</a> e <a href="https://github.com/Pranesh-2005/github-readme-stats-fast">GitHub Readme Stats Fast</a>. As linguagens representam o código dos repositórios, não o nível de domínio de cada tecnologia.</sub>
+
 
 ###
 
