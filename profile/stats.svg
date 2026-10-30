@@ -1,0 +1,72 @@
+<svg width="495" height="255" viewBox="0 0 495 255" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Matheus Andrade | GitHub">
+  <title>Matheus Andrade | GitHub</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #bf91f3; animation: fadeIn .8s ease-in-out forwards; }
+    .label { font: 400 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .value { font: 700 14px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .trend-text { font: 700 10px 'Segoe UI', Ubuntu, Sans-Serif; }
+    .ring-grade { font: 800 20px 'Segoe UI', Ubuntu, Sans-Serif; fill: #bf91f3; }
+    .ring-pct { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; opacity: 0.7; }
+    .row   { opacity: 0; animation: fadeIn .3s ease-in-out forwards; }
+    .ring-progress { animation: ringFill 1.2s cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+    @keyframes fadeIn { from { opacity: 0 } to { opacity: 1 } }
+    @keyframes ringFill {
+      from { stroke-dashoffset: 251.32741228718345; }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .row, .title { animation: none !important; opacity: 1; }
+      .ring-progress { animation: none !important; }
+    }
+  </style>
+  <rect x="0.5" y="0.5" rx="10" ry="10" width="494" height="254" fill="#1a1b27" stroke="#70a5fd" stroke-width="1"/>
+  <text x="25" y="43" class="title">Matheus Andrade | GitHub</text>
+    <g class="row" style="animation-delay:0ms">
+      <svg x="25" y="60" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.75.75 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25z"/></svg>
+      <text x="50" y="72.5" class="label">Total Stars Earned:</text>
+      <text x="350" y="72.5" class="value" text-anchor="end">0</text>
+      
+    </g>
+    <g class="row" style="animation-delay:150ms">
+      <svg x="25" y="85" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
+      <text x="50" y="97.5" class="label">Total Commits (2026):</text>
+      <text x="350" y="97.5" class="value" text-anchor="end">34</text>
+      
+    </g>
+    <g class="row" style="animation-delay:300ms">
+      <svg x="25" y="110" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M7.177 3.073 9.573.677A.25.25 0 0 1 10 .854v4.792a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354zM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5zm-2.25.75a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25zM11 2.5h-1V4h1a1 1 0 0 1 1 1v5.628a2.251 2.251 0 1 0 1.5 0V5A2.5 2.5 0 0 0 11 2.5zm1 10.25a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0zM3.75 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5z"/></svg>
+      <text x="50" y="122.5" class="label">Pull Requests:</text>
+      <text x="350" y="122.5" class="value" text-anchor="end">0</text>
+      
+    </g>
+    <g class="row" style="animation-delay:450ms">
+      <svg x="25" y="135" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM8 0a8 8 0 1 0 0 16A8 8 0 0 0 8 0zM1.5 8a6.5 6.5 0 1 1 13 0 6.5 6.5 0 0 1-13 0z"/></svg>
+      <text x="50" y="147.5" class="label">Issues Opened:</text>
+      <text x="350" y="147.5" class="value" text-anchor="end">0</text>
+      
+    </g>
+    <g class="row" style="animation-delay:600ms">
+      <svg x="25" y="160" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042z"/></svg>
+      <text x="50" y="172.5" class="label">Contributions This Year:</text>
+      <text x="350" y="172.5" class="value" text-anchor="end">38</text>
+      
+    </g>
+    <g class="row" style="animation-delay:750ms">
+      <svg x="25" y="185" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 0 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8zm-8 11h8v1.5h-8a1 1 0 0 1 0-2z"/></svg>
+      <text x="50" y="197.5" class="label">Public Repos:</text>
+      <text x="350" y="197.5" class="value" text-anchor="end">3</text>
+      
+    </g>
+    <g class="row" style="animation-delay:900ms">
+      <svg x="25" y="210" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M5.5 3.5a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4.001 4.001 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.49 3.49 0 0 1 2 5.5zM11 4a.75.75 0 1 0 0 1.5 1.5 1.5 0 0 1 .666 2.844.75.75 0 0 0-.416.672v.352a.75.75 0 0 0 .574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 1 0 1.434-.44 5.01 5.01 0 0 0-2.56-3.012A3 3 0 0 0 11 4z"/></svg>
+      <text x="50" y="222.5" class="label">Followers:</text>
+      <text x="350" y="222.5" class="value" text-anchor="end">1</text>
+      
+    </g>
+  
+  <circle cx="425" cy="147.5" r="40" fill="none" stroke="#70a5fd" stroke-width="5" opacity="0.3"/>
+  <circle cx="425" cy="147.5" r="40" fill="none" stroke="#bf91f3" stroke-width="5"
+    stroke-linecap="round" stroke-dasharray="251.32741228718345" stroke-dashoffset="0"
+    transform="rotate(-90 425 147.5)" class="ring-progress"/>
+  <text x="425" y="141.5" text-anchor="middle" class="ring-grade">A+</text>
+  <text x="425" y="159.5" text-anchor="middle" class="ring-pct">100%</text>
+</svg>
