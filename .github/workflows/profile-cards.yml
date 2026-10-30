@@ -1,0 +1,74 @@
+name: Update profile cards
+
+on:
+  schedule:
+    - cron: '23 6,18 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/profile-cards.yml
+      - scripts/profile-cards.py
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Generate top languages for anddrad3
+        uses: Pranesh-2005/github-readme-stats-fast-action@9c4d9723a1ee34df420e3abcad994d04a8746e37 # v1.3
+        with:
+          card: top-langs
+          options: username=anddrad3&layout=compact&theme=tokyonight&langs_count=8&custom_title=Linguagens%20mais%20usadas&border_radius=10
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate streak for anddrad3
+        uses: Pranesh-2005/github-readme-stats-fast-action@9c4d9723a1ee34df420e3abcad994d04a8746e37 # v1.3
+        with:
+          card: streak
+          options: username=anddrad3&theme=tokyonight&border_radius=10
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Fetch GHStats and validate all cards
+        run: python3 scripts/profile-cards.py
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: profile-cards
+          path: profile/*.svg
+          retention-days: 1
+          if-no-files-found: error
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          ref: main
+      - uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: profile-cards
+          path: profile
+      - name: Commit refreshed cards
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile/stats.svg profile/top-langs.svg profile/streak.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'chore: refresh public profile cards [skip ci]'
+          git push origin HEAD:main
