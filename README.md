@@ -7,7 +7,7 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/anddrad3?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
@@ -185,7 +185,7 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 
 <div align="center">
     <a href="https://amerindia.alwaysdata.net/voz-do-professor/" target="_blank">
-  <img height="200" src="https://lh3.googleusercontent.com/d/1xFKontuDinsDdNPv3hNo901C6Erw5Ph9" alt="GIF3" />
+  <img height="200" src="https://drive.google.com/file/d/1x0qmZk0VNVMdC_Bwelhy3XapdZSXSsBT/view?usp=sharing" alt="GIF3" />
 </div>
 
 ###
@@ -194,7 +194,7 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 
 <div align="center">
     <a href="http://amerindia.alwaysdata.net/" target="_blank">
-  <img height="200" src="https://lh3.googleusercontent.com/d/1PkObNtKfS2c9ySi_XdDM9ST7q2vSny9F" alt="GIF2" />
+  <img height="200" src="https://drive.google.com/file/d/1qRJpcZPByk5ohgJVf8jh_lS9pkley9j4/view?usp=sharing" alt="GIF2" />
 </div>
 
 ###
