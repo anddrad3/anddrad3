@@ -29,7 +29,7 @@
     <g class="row" style="animation-delay:150ms">
       <svg x="25" y="85" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32zM8 10.5a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5z"/></svg>
       <text x="50" y="97.5" class="label">Total Commits (2026):</text>
-      <text x="350" y="97.5" class="value" text-anchor="end">49</text>
+      <text x="350" y="97.5" class="value" text-anchor="end">52</text>
       
     </g>
     <g class="row" style="animation-delay:300ms">
@@ -47,13 +47,13 @@
     <g class="row" style="animation-delay:600ms">
       <svg x="25" y="160" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042z"/></svg>
       <text x="50" y="172.5" class="label">Contributions This Year:</text>
-      <text x="350" y="172.5" class="value" text-anchor="end">54</text>
+      <text x="350" y="172.5" class="value" text-anchor="end">58</text>
       
     </g>
     <g class="row" style="animation-delay:750ms">
       <svg x="25" y="185" width="16" height="16" viewBox="0 0 16 16" fill="#38bdae"><path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 0 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8zm-8 11h8v1.5h-8a1 1 0 0 1 0-2z"/></svg>
       <text x="50" y="197.5" class="label">Public Repos:</text>
-      <text x="350" y="197.5" class="value" text-anchor="end">4</text>
+      <text x="350" y="197.5" class="value" text-anchor="end">5</text>
       
     </g>
     <g class="row" style="animation-delay:900ms">
