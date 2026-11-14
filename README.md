@@ -202,13 +202,13 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
       <sub>Pesquisa de mestrado</sub>
     </td>
     <td align="center" valign="bottom" width="250">
-      <a href="https://matityahu.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1ioK4CpqQtBGfIzaz-3O_upZjyY57uMwT" alt="MLG" /><br/>
+      <a href="https://matityahu.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/12zxCs5T5eyYqJicE15ez-LkhdFrgnSwH" alt="MLG" /><br/>
       <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
       <a href="https://matityahu.alwaysdata.net/" target="_blank"><b>MLG</b></a><br/>
       <sub>Organização pessoal e financeira</sub>
     </td>
     <td align="center" valign="bottom" width="250">
-      <a href="https://amerindia.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1N5MHGprr-Y6eSe3fBZu8B1wUs_xI-GZD" alt="Ameríndia" /><br/>
+      <a href="https://amerindia.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1ioK4CpqQtBGfIzaz-3O_upZjyY57uMwT" alt="Ameríndia" /><br/>
       <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
       <a href="https://amerindia.alwaysdata.net/" target="_blank"><b>Ameríndia</b></a><br/>
       <sub>Iniciação Científica · PIBIC</sub>
@@ -216,7 +216,7 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
   </tr>
   <tr>
     <td align="center" valign="bottom" width="250">
-      <a href="https://github.com/anddrad3/BloqueiaShorts" target="_blank"><img height="200" src="./assets/projetos/bloqueia-shorts.gif" alt="Bloqueia Shorts" /><br/>
+      <a href="https://github.com/anddrad3/BloqueiaShorts" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1mRv4y-oSz7aFLjdZnx9IWkD0S6rOAAei" alt="Bloqueia Shorts" /><br/>
       <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
       <a href="https://github.com/anddrad3/BloqueiaShorts" target="_blank"><b>Bloqueia Shorts</b></a><br/>
       <sub>App Android contra os Shorts do YouTube</sub>
