@@ -179,29 +179,55 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 
 ###
 
-## 🤖 Meus Projetos
+<h2 align="center">🤖 Meus Projetos</h2>
 
-###
+<p align="center">
+  <img width="420" src="./assets/projetos/divisor.svg" alt="" />
+</p>
 
-<div align="center">
-    <a href="https://amerindia.alwaysdata.net/voz-do-professor/" target="_blank">
-  <img height="200" src="https://lh3.googleusercontent.com/d/1cFVjSt9yCxWT15w81MaA8KZWl14pUrVn" alt="GIF1" />
-</div>
-
-###
-
-<div align="center">
-    <a href="http://matityahu.alwaysdata.net/" target="_blank">
-  <img height="200" src="https://lh3.googleusercontent.com/d/12zxCs5T5eyYqJicE15ez-LkhdFrgnSwH" alt="GIF2" />
-</div>
-
-###
-
-
-<div align="center">
-    <a href="http://amerindia.alwaysdata.net/" target="_blank">
-  <img height="200" src="https://lh3.googleusercontent.com/d/1N5MHGprr-Y6eSe3fBZu8B1wUs_xI-GZD" alt="GIF3" />
-</div>
+<!-- Estante de projetos: 3 por linha. Para um novo projeto, troque uma célula "em breve" (ou abra um novo <tr>). -->
+<table align="center">
+  <tr>
+    <td align="center" valign="bottom" width="250">
+      <a href="https://amerindia.alwaysdata.net/voz-do-professor/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1cFVjSt9yCxWT15w81MaA8KZWl14pUrVn" alt="Voz do Professor" /><br/>
+      <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
+      <a href="https://amerindia.alwaysdata.net/voz-do-professor/" target="_blank"><b>Voz do Professor</b></a><br/>
+      <sub>Pesquisa de mestrado</sub>
+    </td>
+    <td align="center" valign="bottom" width="250">
+      <a href="https://matityahu.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/12zxCs5T5eyYqJicE15ez-LkhdFrgnSwH" alt="MLG" /><br/>
+      <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
+      <a href="https://matityahu.alwaysdata.net/" target="_blank"><b>MLG</b></a><br/>
+      <sub>Organização pessoal e financeira</sub>
+    </td>
+    <td align="center" valign="bottom" width="250">
+      <a href="https://amerindia.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1N5MHGprr-Y6eSe3fBZu8B1wUs_xI-GZD" alt="Ameríndia" /><br/>
+      <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
+      <a href="https://amerindia.alwaysdata.net/" target="_blank"><b>Ameríndia</b></a><br/>
+      <sub>Iniciação Científica · PIBIC</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="bottom" width="250">
+      <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><img height="200" src="./assets/projetos/livro-matheus-andrade.gif" alt="dev. Matheus Andrade" /><br/>
+      <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
+      <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><b>dev. Matheus Andrade</b></a><br/>
+      <sub>Portfólio em forma de livro</sub>
+    </td>
+    <td align="center" valign="bottom" width="250">
+      <img height="200" src="./assets/projetos/em-breve.svg" alt="Espaço para o próximo projeto" /><br/>
+      <img width="230" src="./assets/projetos/estante.svg" alt="" /><br/>
+      <b>&nbsp;</b><br/>
+      <sub>&nbsp;</sub>
+    </td>
+    <td align="center" valign="bottom" width="250">
+      <img height="200" src="./assets/projetos/em-breve.svg" alt="Espaço para o próximo projeto" /><br/>
+      <img width="230" src="./assets/projetos/estante.svg" alt="" /><br/>
+      <b>&nbsp;</b><br/>
+      <sub>&nbsp;</sub>
+    </td>
+  </tr>
+</table>
 
 ###
 

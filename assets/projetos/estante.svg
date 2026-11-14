@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="46" viewBox="0 0 460 46">
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d9a86a"/>
+      <stop offset="1" stop-color="#b07a42"/>
+    </linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8a5328"/>
+      <stop offset=".55" stop-color="#6e3f1d"/>
+      <stop offset="1" stop-color="#4f2b13"/>
+    </linearGradient>
+    <linearGradient id="shade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#000" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff3d6" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#fff3d6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- sombra no fundo da estante -->
+  <ellipse cx="230" cy="40" rx="215" ry="5" fill="url(#shade)"/>
+  <!-- tampo (vista de cima) -->
+  <path d="M14 6 H446 L456 16 H4 Z" fill="url(#top)"/>
+  <path d="M20 8 H440" stroke="#f0c98f" stroke-width="1" opacity=".7"/>
+  <ellipse cx="230" cy="11" rx="150" ry="4" fill="url(#glow)"/>
+  <!-- borda frontal com veios -->
+  <rect x="4" y="16" width="452" height="18" rx="2" fill="url(#front)"/>
+  <g fill="none" stroke="#3d200d" stroke-width="1" opacity=".45">
+    <path d="M12 22 C80 19 120 25 190 21 S320 19 448 23"/>
+    <path d="M10 28 C70 26 150 31 230 27 S380 25 450 29"/>
+    <path d="M60 25 q18 -3 36 0 t36 0" opacity=".6"/>
+    <path d="M300 24 q14 -3 28 0 t28 0" opacity=".6"/>
+  </g>
+  <path d="M6 17 H454" stroke="#a96d3a" stroke-width="1"/>
+  <!-- mãos-francesas -->
+  <path d="M40 34 v8 h10 v-3 h-6 v-5 z M410 34 v5 h-6 v3 h10 v-8 z" fill="#3a1f0e"/>
+</svg>
