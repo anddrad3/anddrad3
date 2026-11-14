@@ -185,7 +185,17 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
   <img width="420" src="./assets/projetos/divisor.svg" alt="" />
 </p>
 
-<!-- Estante de projetos: 3 por linha. Para um novo projeto, troque uma célula "em breve" (ou abra um novo <tr>). -->
+<!-- Portfólio: fica fora da estante, acima dos projetos -->
+<p align="center">
+  <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><img height="280" src="./assets/projetos/livro-matheus-andrade.gif" alt="dev. Matheus Andrade — meu portfólio em forma de livro" /></a>
+</p>
+<p align="center">
+  <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><img width="380" src="./assets/projetos/placa-portfolio.svg" alt="Meu portfólio — clique e abra o livro" /></a>
+</p>
+
+<br/>
+
+<!-- Estante de projetos: 3 por linha. Para um novo projeto, abra um novo <tr> com até 3 células (a última linha é o espaço "em breve"). -->
 <table align="center">
   <tr>
     <td align="center" valign="bottom" width="250">
@@ -208,23 +218,9 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
     </td>
   </tr>
   <tr>
-    <td align="center" valign="bottom" width="250">
-      <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><img height="200" src="./assets/projetos/livro-matheus-andrade.gif" alt="dev. Matheus Andrade" /><br/>
-      <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
-      <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><b>dev. Matheus Andrade</b></a><br/>
-      <sub>Portfólio em forma de livro</sub>
-    </td>
-    <td align="center" valign="bottom" width="250">
+    <td colspan="3" align="center">
       <img height="200" src="./assets/projetos/em-breve.svg" alt="Espaço para o próximo projeto" /><br/>
-      <img width="230" src="./assets/projetos/estante.svg" alt="" /><br/>
-      <b>&nbsp;</b><br/>
-      <sub>&nbsp;</sub>
-    </td>
-    <td align="center" valign="bottom" width="250">
-      <img height="200" src="./assets/projetos/em-breve.svg" alt="Espaço para o próximo projeto" /><br/>
-      <img width="230" src="./assets/projetos/estante.svg" alt="" /><br/>
-      <b>&nbsp;</b><br/>
-      <sub>&nbsp;</sub>
+      <img width="230" src="./assets/projetos/estante.svg" alt="" />
     </td>
   </tr>
 </table>
