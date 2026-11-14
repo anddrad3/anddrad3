@@ -202,7 +202,7 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
       <sub>Pesquisa de mestrado</sub>
     </td>
     <td align="center" valign="bottom" width="250">
-      <a href="https://matityahu.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/12zxCs5T5eyYqJicE15ez-LkhdFrgnSwH" alt="MLG" /><br/>
+      <a href="https://matityahu.alwaysdata.net/" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1ioK4CpqQtBGfIzaz-3O_upZjyY57uMwT" alt="MLG" /><br/>
       <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
       <a href="https://matityahu.alwaysdata.net/" target="_blank"><b>MLG</b></a><br/>
       <sub>Organização pessoal e financeira</sub>
