@@ -189,9 +189,6 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 <p align="center">
   <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><img height="280" src="./assets/projetos/livro-matheus-andrade.gif" alt="dev. Matheus Andrade — meu portfólio em forma de livro" /></a>
 </p>
-<p align="center">
-  <a href="https://matityahu.alwaysdata.net/dev-matheus-andrade/" target="_blank"><img width="380" src="./assets/projetos/placa-portfolio.svg" alt="Meu portfólio — clique e abra o livro" /></a>
-</p>
 
 <br/>
 
