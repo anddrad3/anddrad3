@@ -38,6 +38,24 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 
 ---
 
+<!-- Portfólio em destaque: primeira coisa depois da apresentação -->
+<h2 align="center">📖 Meu portfólio é um livro — abra e folheie</h2>
+
+<p align="center">
+  <b>Em vez de uma página comum, um livro 3D interativo sobre quem eu sou e o que eu construo.</b><br/>
+  <sub>Abra a capa, vire as páginas e conheça minha trajetória, minhas tecnologias e meus projetos — com trilha sonora, objetos na mesa e versões em português e inglês.</sub>
+</p>
+
+<p align="center">
+  <a href="https://anddrad3.github.io/matheus-andrade-livro/" target="_blank"><img height="340" src="./assets/projetos/livro-matheus-andrade.gif" alt="dev. Matheus Andrade — meu portfólio em forma de livro" /></a>
+</p>
+
+<p align="center">
+  <a href="https://anddrad3.github.io/matheus-andrade-livro/" target="_blank"><img alt="Abrir o livro" title="Abrir o portfólio" src="https://custom-icon-badges.demolab.com/badge/-Abrir%20o%20livro%20%E2%86%92-8e2a1c?style=for-the-badge&logo=book&logoColor=white" height="36" /></a>
+</p>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -184,13 +202,6 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
 <p align="center">
   <img width="420" src="./assets/projetos/divisor.svg" alt="" />
 </p>
-
-<!-- Portfólio: fica fora da estante, acima dos projetos -->
-<p align="center">
-  <a href="https://anddrad3.github.io/matheus-andrade-livro/" target="_blank"><img height="280" src="./assets/projetos/livro-matheus-andrade.gif" alt="dev. Matheus Andrade — meu portfólio em forma de livro" /></a>
-</p>
-
-<br/>
 
 <!-- Estante de projetos: 3 por linha. Para um novo projeto, abra um novo <tr> com até 3 células (a última linha é o espaço "em breve"). -->
 <table align="center">
