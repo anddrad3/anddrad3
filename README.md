@@ -233,10 +233,10 @@ Me chamo **Matheus Andrade**, tenho 23 anos e sou natural de Franca/SP. Sou Téc
       <sub>App Android contra os Shorts do YouTube</sub>
     </td>
       <td align="center" valign="bottom" width="250">
-      <a href="https://github.com/anddrad3/BloqueiaShorts" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1mRv4y-oSz7aFLjdZnx9IWkD0S6rOAAei" alt="Bloqueia Shorts" /><br/>
+      <a href="https://i.pinimg.com/originals/57/fe/18/57fe18529703399df7926d81eed67ff6.jpg?nii=t" target="_blank"><img height="200" src="https://lh3.googleusercontent.com/d/1edNAjJU-cawL8JqODfYvXm2D6BbLnDJa" alt="Livrário" /><br/>
       <img width="230" src="./assets/projetos/estante.svg" alt="" /></a><br/>
-      <a href="https://github.com/anddrad3/BloqueiaShorts" target="_blank"><b>Bloqueia Shorts</b></a><br/>
-      <sub>App Android contra os Shorts do YouTube</sub>
+      <a href="https://github.com/anddrad3/BloqueiaShorts" target="_blank"><b>Livrário</b></a><br/>
+      <sub>Controle de acerva literário pessoal</sub>
     </td>
     <td colspan="2" align="center" valign="bottom">
       <img height="200" src="./assets/projetos/em-breve.svg" alt="Espaço para o próximo projeto" /><br/>
